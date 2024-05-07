@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to My Git Profile! 👋
+
+About Me
+Hey there! I'm Irfan Pertadima, a passionate mobile developer with a strong knack for building sleek and efficient mobile applications. I thrive on creating engaging user experiences and solving real-world problems through innovative mobile solutions.
 
 <!--
 **pertadima/pertadima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
