@@ -5,7 +5,7 @@
 ### About Me
 Hey there! I'm Irfan Pertadima, a passionate mobile developer with a strong knack for building sleek and efficient mobile applications. I thrive on creating engaging user experiences and solving real-world problems through innovative mobile solutions.
  
-<br><br><br><br>
+<br><br>
 
 | Github Stats  | Top Langs By Repo  | 
 |---|---|
