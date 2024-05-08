@@ -5,7 +5,7 @@
 ### About Me
 Hey there! I'm Irfan Pertadima, a passionate mobile developer with a strong knack for building sleek and efficient mobile applications. I thrive on creating engaging user experiences and solving real-world problems through innovative mobile solutions.
 
-| Github Stats  | Top Langs  | 
+| Github Stats  | Top Langs By Repo  | 
 |---|---|
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pertadima&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pertadima&layout=donut-vertical&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |  
 
